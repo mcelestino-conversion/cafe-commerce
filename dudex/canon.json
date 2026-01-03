@@ -1,0 +1,13 @@
+{
+  "canon_version": "1.0",
+  "description": "a modern, mobile-friendly e-commerce platform for a food caf\u00e9 with online ordering, payments, and an admin dashboard. built with next.js, typescript, tailwind css, stripe, postgresql, and vercel deployment.",
+  "project": {
+    "framework": "nextjs",
+    "language": "typescript",
+    "name": "cafe commerce",
+    "type": "web_app"
+  },
+  "styling": {
+    "framework": "tailwind"
+  }
+}
